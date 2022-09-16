@@ -1,3 +1,3 @@
 # Huston
-##First Task on Stepik
-##Lessons about HTML
+### First Task on Stepik
+### Lessons about HTML
